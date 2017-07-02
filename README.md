@@ -7,7 +7,7 @@ A Slackbot built by the Cognitive Academy team to leverage the Watson Discovery 
 2. A Watson Conversation bot created via Bluemix, and its corresponding Workspace ID, Username and Password. [Create a bot](https://www.ibm.com/watson/how-to-build-a-chatbot/) or [Find your credentials](https://www.ibm.com/watson/developercloud/doc/common/getting-started-credentials.html)
 
 ### Setup
-1. Clone the repo with: `git clone git@github.ibm.com:Grant-Lloyd-Eaton/cognitive-slackbot.git`
+1. Clone the repo with: `git clone git@github.com:GrantEaton/Watson-Slackbot.git`
 2. cd into the directory `cd cognitive-slackbot`
 3. Run an `npm install`
 4. Make sure you are in the main project directory
