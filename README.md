@@ -1,5 +1,5 @@
 # watson-slackbot
-A Slackbot built by the Cognitive Academy team to leverage the Watson Discovery and Chatbot APIs to enable users in IBM guilds to find answers to questions more effectively.
+
 ![A preview of a Slackbot Watson conversation](/screenshots/chatpic.png)
 
 ### What you need
