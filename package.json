@@ -1,0 +1,29 @@
+{
+  "name": "cognitive-slackbot",
+  "version": "1.0.0",
+  "description": "A Slackbot built by the Cognitive Academy team to leverage the Watson Discovery and Chatbot APIs to enable users in IBM guilds to find answers to questions more effectively.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.ibm.com/Grant-Lloyd-Eaton/cognitive-slackbot.git"
+  },
+  "keywords": [
+    "slackbot",
+    "cognitive",
+    "academy",
+    "discovery",
+    "chatbot"
+  ],
+  "author": "IBM Cognitive Academy",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "0.5.5",
+    "dotenv": "4.0.0",
+    "request": "2.81.0",
+    "watson-developer-cloud": "2.32.1"
+  }
+}
