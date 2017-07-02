@@ -3,7 +3,7 @@ A Slackbot built by the Cognitive Academy team to leverage the Watson Discovery 
 ![A preview of a Slackbot Watson conversation](/screenshots/chatpic.png)
 
 ### What you need
-1. A slackbot token **(NOTE for the cognitive academy team: PM me and I'll send you our bot token)**, which can be created [here](https://my.slack.com/services/new/bot) and info on bots can be found [here](https://api.slack.com/bot-users).
+1. A slackbot token which can be created [here](https://my.slack.com/services/new/bot) and info on bots can be found [here](https://api.slack.com/bot-users).
 2. A Watson Conversation bot created via Bluemix, and its corresponding Workspace ID, Username and Password. [Create a bot](https://www.ibm.com/watson/how-to-build-a-chatbot/) or [Find your credentials](https://www.ibm.com/watson/developercloud/doc/common/getting-started-credentials.html)
 
 ### Setup
