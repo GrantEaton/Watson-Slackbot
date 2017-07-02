@@ -1,4 +1,4 @@
-# cognitive-slackbot
+# watson-slackbot
 A Slackbot built by the Cognitive Academy team to leverage the Watson Discovery and Chatbot APIs to enable users in IBM guilds to find answers to questions more effectively.
 ![A preview of a Slackbot Watson conversation](/screenshots/chatpic.png)
 
@@ -11,18 +11,12 @@ A Slackbot built by the Cognitive Academy team to leverage the Watson Discovery 
 2. cd into the directory `cd cognitive-slackbot`
 3. Run an `npm install`
 4. Make sure you are in the main project directory
-5. Create a file called **.env** with the following data:
+5. Edit the file called **.env** with the following data:
 ```
 workspaceID = '<enter your workspaceID here>'
 username = '<enter your username here>'
 password = '<enter your password here>'
 botToken = '<enter your botToken here>'
 ```
-6. Edit your Slackbot token, as well as your workspace ID, username and password to the **.env** file
-7. Run `npm start`
-8. Message your bot!
-
-### Coding Guidelines
-1. Please use `snake_case` for json objects/database values (all lower case, underscores for spaces) and `camelCase` for variable names. Lets try to not make things confusing :D
-2. Try to log every error you can. Most callbacks accept an error, so please use: ```throw new Error("I am an error message. Use me.")```
-3. If using the variables, `error`, `response` or `request`, please use the shorthand of `err`, `res` or `req`.
+6. Run `npm start`
+7. Message your bot!
